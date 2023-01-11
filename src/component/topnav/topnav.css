@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;  
+    text-decoration: none;    
+}
+.nav{  
+    background-color:grey;
+    opacity: .8.75;
+}
+.home{
+    cursor:pointer;
+}
+li{
+    padding:2.2rem;
+    list-style: none;
+}
